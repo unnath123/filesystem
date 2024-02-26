@@ -1,0 +1,25 @@
+{
+  "name": "filesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "filesystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unnath123/filesystem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unnath123/filesystem/issues"
+  },
+  "homepage": "https://github.com/unnath123/filesystem#readme",
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "nodemon": "^3.1.0"
+  }
+}
